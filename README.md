@@ -1,6 +1,6 @@
 # React CRUD Application
 
-How the application works : https://youtu.be/Mi6F3zJMT48
+How the application works :
 
 What i used to develop this application all of are listed below :
 1: React
